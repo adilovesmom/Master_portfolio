@@ -21,4 +21,4 @@ If you find any bugs you can report it to me.
 5) Styled Components
 6) Email JS
 
-https://soumyaranjan-portfolio.vercel.app/
+https://aditya-pradhan.vercel.app/
